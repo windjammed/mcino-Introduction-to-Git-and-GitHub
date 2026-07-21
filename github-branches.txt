@@ -1,0 +1,4 @@
+theia@theia-celis:/home/project/mcino-Introduction-to-Git-and-GitHub$ git branch -vv
+* bug-fix-revert 8db0929 [origin/bug-fix-revert] Revert "Updated footer year"
+  bug-fix-typo   a0d186a [origin/bug-fix-typo] Updated footer year
+  main           a0d186a [origin/main: ahead 1] Updated footer year
